@@ -23,12 +23,9 @@ Use it as you want
 ## Screenshots
 <img src="img/1.png">
 <img src="img/2.png">
-<img src="img/3.png">
 
 ## For Support
 For support, send an email to oguzhancart1@gmail.com or you are invited to our telegram channel https://t.me/vsform_tr  
-## Website Flutter 
-<a href="htttp://flutter-exp.rf.gd" target="_blank">Demo</a>
 ## Codpen.io
 [Codpen account link](https://codepen.io/oguzhan1881)
 ## Github Account Link
